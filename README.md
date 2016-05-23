@@ -19,6 +19,3 @@ which has these:
 * [ \__________DUMP] - contains two/four-bytes numbers from the file, which the increment is not true;
 * [ \__DISTANSE] - the number of incorrect bytes;
 * [ \_LEN] - number of the incorrect numbers for this error.
-
-## Copyright 
-© Andrei Tkachenko (@tkacz-) include.free@gmail.com
