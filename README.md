@@ -4,11 +4,11 @@ CheckInc checks increments at the binary files and write into the log-file infor
 * '=' means the increment is correct;
 * information about the increment errors.
 
-##Settings:
+## Settings:
 * 2-bytes and 4-bytes numbers;
 * Little/Big endian.
 
-##Information about the increment errors
+## Information about the increment errors
 
 [ \___#][ \_____DEC = \_____HEX]	[ \__________DUMP]    [ \__DISTANSE]    [ \_LEN]
 
